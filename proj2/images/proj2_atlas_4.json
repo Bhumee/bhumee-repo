@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":1713,"y":0,"w":210,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":203},
+	"sourceSize": {"w":210,"h":203}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":1713,"y":205,"w":129,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":44},
+	"sourceSize": {"w":129,"h":44}
+},
+"Image_0":
+{
+	"frame": {"x":1144,"y":0,"w":567,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":567,"h":550},
+	"sourceSize": {"w":567,"h":550}
+},
+"Image_10":
+{
+	"frame": {"x":813,"y":0,"w":329,"h":1154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":1154},
+	"sourceSize": {"w":329,"h":1154}
+},
+"Image_4":
+{
+	"frame": {"x":444,"y":0,"w":367,"h":1133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":1133},
+	"sourceSize": {"w":367,"h":1133}
+},
+"Image_8":
+{
+	"frame": {"x":0,"y":0,"w":442,"h":1104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":1104},
+	"sourceSize": {"w":442,"h":1104}
+},
+"img1":
+{
+	"frame": {"x":1144,"y":552,"w":600,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":250},
+	"sourceSize": {"w":600,"h":250}
+},
+"img2":
+{
+	"frame": {"x":1144,"y":804,"w":600,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":250},
+	"sourceSize": {"w":600,"h":250}
+},
+"img3":
+{
+	"frame": {"x":1144,"y":1056,"w":600,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":250},
+	"sourceSize": {"w":600,"h":250}
+},
+"img4":
+{
+	"frame": {"x":0,"y":1135,"w":600,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":250},
+	"sourceSize": {"w":600,"h":250}
+},
+"img5":
+{
+	"frame": {"x":602,"y":1308,"w":600,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":250},
+	"sourceSize": {"w":600,"h":250}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.9.42677",
+	"image": "proj2_atlas_4.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
