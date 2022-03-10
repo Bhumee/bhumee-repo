@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>JavaScript Pie Chart</title>
+      <script src="https://cdn.anychart.com/releases/8.0.1/js/anychart-core.min.js"></script>
+      <script src="https://cdn.anychart.com/releases/8.0.1/js/anychart-pie.min.js"></script>
+  </head>
+  <style>
+      #container {
+          width: 600px;
+          height: 600px;
+      }
+  </style>
+  <body>
+    <div id="container" style="width: 600px; height: 600px"></div>
+    <script>
+        anychart.onDocumentReady(function() {
+
+// set the data
+var data = [
+    {x: "Muslim", value: 28929319},
+    {x: "Hindu", value: 38929319},
+    {x: "Gujurati", value: 14674252},
+    {x: "Adivasis", value: 900013},
+    {x: "Some Other caste", value: 19107368}
+];
+
+// create the chart
+var chart = anychart.pie();
+
+// set the chart title
+chart.title("Population by Caste for the Indian population");
+
+// add the data
+chart.data(data);
+
+// display the chart in the container
+chart.container('container');
+chart.draw();
+
+});
+    </script>
+  </body>
+</html>
